@@ -4,6 +4,7 @@
 ## Executive Summary
 
 This report focuses on analyzing the gender balance and inclusion within the telecom client's workforce, specifically at the executive management level. Although the company has made efforts to improve gender diversity, particularly among senior executives, the data indicates that progress remains slow. The analysis aims to provide actionable insights to help enhance gender diversity, especially in promotions, new hires, and career advancement.
+![image](https://github.com/user-attachments/assets/6b719091-bb2c-4fab-98e8-ed4f5eadeb7c)
 
 ---
 
